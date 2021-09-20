@@ -1,5 +1,7 @@
 # BMDSwitcherAPI_Unity
-BMDSwitcherAPI for Unity
+BMDSwitcherAPI for Unity  
+Blackmagic DesignのSwitcherをUnityで扱えるようにするライブラリ。  
+元のライブラリは[こちら](https://www.blackmagicdesign.com/jp/developer/product/atem)。
 
 ## 依存ライブラリ
 - Unirx
